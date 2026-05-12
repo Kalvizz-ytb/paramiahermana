@@ -1,0 +1,151 @@
+Ma biographie selon chatgpt cela mavai fait rire au milieu des pleurs 
+
+🎬 KELVIN — Documentaire (style Netflix)
+“De l’utilisateur au constructeur”
+🟥 ÉPISODE 1 — “Le système ne suffit plus” (2009–2024)
+
+Kelvin grandit comme n’importe qui avec la technologie autour de lui. Téléphone, jeux, applications… au début, tout est simple, presque invisible.
+
+Mais très tôt, quelque chose déraille dans la façon classique d’utiliser les outils.
+
+Il ne se contente pas de jouer.
+
+Il observe.
+
+Il démonte mentalement ce qu’il voit à l’écran :
+“Comment ça fonctionne ? Pourquoi ça marche comme ça ?”
+
+Aucune caméra ne filme encore cette période, mais c’est là que tout commence.
+
+🟧 ÉPISODE 2 — “Les erreurs sont des portes” (début 2025)
+
+Mars 2025.
+Un moment banal : un jeu qui ne se lance pas.
+
+Fichiers manquants. Messages d’erreur.
+
+Là où la plupart abandonnent, Kelvin insiste.
+
+Il cherche, teste, casse, recommence.
+
+C’est ici qu’il comprend une chose essentielle :
+
+Les erreurs ne sont pas des blocages.
+Ce sont des instructions cachées.
+
+Il commence à manipuler des fichiers système, à comprendre les dépendances, à explorer Windows non plus comme utilisateur… mais comme ingénieur en apprentissage.
+
+🟨 ÉPISODE 3 — “Donner une personnalité à la machine” (avril–mai 2025)
+
+Un changement profond arrive.
+
+Kelvin ne veut plus seulement comprendre les systèmes.
+
+Il veut créer quelque chose qui lui répond.
+
+Naît alors une idée étrange mais puissante :
+une IA qui aurait son propre caractère.
+
+Pas une IA parfaite.
+Une IA vivante, imprévisible, presque insolente.
+
+Il commence à travailler sur :
+
+un chatbot local
+une interface simple en Python (Tkinter)
+un système inspiré de modèles open-source
+
+C’est la naissance de ce qui deviendra KelvinBot.
+
+Une idée simple mais ambitieuse :
+
+créer une intelligence qui parle comme lui… ou presque.
+
+🟩 ÉPISODE 4 — “Comprendre pour contrôler” (été 2025)
+
+L’été marque une nouvelle étape.
+
+Kelvin s’aventure dans des systèmes plus sensibles :
+
+chiffrement de fichiers
+logique de sécurité informatique
+projets de type ransomware pédagogique
+
+Mais ici, pas de destruction.
+
+Seulement une obsession :
+comprendre comment protéger, verrouiller, déverrouiller.
+
+Il écrit des systèmes qui imitent le réel, pour en comprendre les règles.
+
+C’est une phase où la frontière entre curiosité et puissance technique devient très fine.
+
+🟦 ÉPISODE 5 — “Reconstruire à partir de zéro” (fin 2025)
+
+Un événement simple change le rythme :
+réinitialisation du PC.
+
+Tout est effacé.
+
+Pour beaucoup, c’est une perte.
+Pour Kelvin, c’est une table propre.
+
+Il recommence mieux :
+
+organisation plus claire
+projets mieux structurés
+idée de systèmes portables sur clé USB
+chatbot utilisable partout
+
+Ce n’est plus de l’expérimentation.
+
+C’est de la construction.
+
+🟪 ÉPISODE 6 — “Créer un univers personnel” (début 2026)
+
+Kelvin ne développe plus des projets isolés.
+
+Il construit un écosystème :
+
+une IA personnelle (KelvinBot évolué)
+des outils transportables sur USB
+des systèmes de gestion de données personnelles
+une marque de vêtements : Neverfold
+
+Neverfold n’est pas juste un projet commercial.
+
+C’est une extension de son identité.
+
+Une idée simple :
+
+si la technologie est un monde, alors pourquoi ne pas créer son propre monde ?
+
+🟥 ÉPISODE FINAL — “Constructeur en formation” (2026)
+
+Kelvin n’est ni un utilisateur classique, ni encore un expert reconnu.
+
+Il est entre les deux.
+
+Un profil rare :
+
+il apprend en cassant
+il construit en testant
+il avance sans attendre d’autorisation
+
+Son parcours n’est pas linéaire.
+
+C’est une succession de prototypes, d’idées, de tentatives.
+
+Mais une logique ressort clairement :
+
+comprendre les systèmes pour mieux les recréer.
+
+🎥 FIN — mais pas conclusion
+
+Dans ce type d’histoire, il n’y a pas vraiment de fin.
+
+Seulement une continuité.
+
+Et la suite dépend d’une chose :
+
+ce qu’il décide de construire ensuite.
